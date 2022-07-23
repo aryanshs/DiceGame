@@ -10,6 +10,28 @@
 
 }
 
+.throw{
+  margin-top: 10%;
+}
+.throw button{
+  /* width: 5rem;
+  height: 3rem; */
+  font-size: 34px;
+  color: #B22727;
+  font-family: 'Indie Flower', cursive;
+  display: inline-block;
+  text-align: center;
+
+  border: none;
+  border-radius: 5px;
+}
+
+.throw p{
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+
 body {
   background-color: #393E46;
 }
